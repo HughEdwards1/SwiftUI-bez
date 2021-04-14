@@ -12,7 +12,7 @@ let package = Package(
             targets: ["bez"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/HughEdwards1/CGExtender", from: "1.0.3")
+        .package(url: "https://github.com/HughEdwards1/CGExtender", from: "1.1.2")
     ],
     targets: [
         .target(
